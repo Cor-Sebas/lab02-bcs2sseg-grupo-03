@@ -16,3 +16,5 @@ insertar imagen
 ![Logo de GitHub](https://unicrom.com/wp-content/uploads/85-a-codigo-bcd.png)
 
 ![fpga](figs/imageprueba1.jpg)
+
+Código
